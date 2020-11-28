@@ -1,5 +1,5 @@
 {
-  "name": "Notchup Backend",
+  "name": "notchUp_backend",
   "version": "1.0.0",
   "description": "Api for sending out mail using nodemailer",
   "main": "index.js",

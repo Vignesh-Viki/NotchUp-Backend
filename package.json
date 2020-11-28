@@ -8,7 +8,7 @@
   },
   "author": "vignesh",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "express": "^4.17.1",
     "nodemailer": "^6.4.16",
     "nodemon": "^2.0.6"

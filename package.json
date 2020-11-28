@@ -1,0 +1,16 @@
+{
+  "name": "Notchup Backend",
+  "version": "1.0.0",
+  "description": "Api for sending out mail using nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "vignesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.16",
+    "nodemon": "^2.0.6"
+  }
+}

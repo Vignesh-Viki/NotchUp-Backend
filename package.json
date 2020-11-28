@@ -1,6 +1,9 @@
 {
   "name": "notchUp_backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.15.1"
+  },
   "description": "Api for sending out mail using nodemailer",
   "main": "index.js",
   "scripts": {
